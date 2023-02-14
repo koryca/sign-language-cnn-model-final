@@ -1,8 +1,9 @@
-protobuf==3.9.2
+--upgrade pip
 pandas
 numpy
 scikit-learn
 tensorflow
 matplotlib
 tensorflow_hub
-streamlit==1.10.0
+streamlit==1.9.0
+protobuf==3.9.2
