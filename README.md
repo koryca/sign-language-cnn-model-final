@@ -1,14 +1,19 @@
-how to run the code:
+How to run the code:
 
 1. Clone the code the run the train_cnn.ipynb to get the model
 
-2. It is coded in the deployment that the model will be used once it's properly generated
+2. Install virtualenv : pip install virtualenv
 
-3. Then type in command line
+3. Create the virtual environment : virtualenv env
 
-streamlit run deploy_model.py
+4. Activate it : source env/bin/activate
 
-4. The UI for this model will run on http://localhost:8501 by default
+5. Install dependencies : pip install -r requirements.txt
+
+6. To run the final application, execute : streamlit run deploy_model.py
+
+* It is coded in the deployment that the model will be used once it's properly generated
+** To run the model on local: http://localhost:8501 by default
 if you'd like to change the port, use the following line
 
 streamlit run my_app.py --server.port (port number)
