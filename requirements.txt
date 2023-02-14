@@ -1,8 +1,8 @@
+protobuf==3.9.2
 pandas
 numpy
 scikit-learn
-streamlit
 tensorflow
 matplotlib
 tensorflow_hub
-protobuf==3.9.2
+streamlit==1.10.0
