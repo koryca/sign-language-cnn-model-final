@@ -2,7 +2,6 @@ pandas
 numpy
 scikit-learn
 streamlit==1.16.0
-operator
 tensorflow
 matplotlib
 tensorflow_hub
