@@ -1,8 +1,7 @@
 pandas
 numpy
 scikit-learn
-streamlit==1.10.0
-plotly==5.10.0
+streamlit
 tensorflow
 matplotlib
 tensorflow_hub
