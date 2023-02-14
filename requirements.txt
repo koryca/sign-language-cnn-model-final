@@ -6,3 +6,4 @@ streamlit==1.9.0
 tensorflow
 matplotlib
 tensorflow_hub
+protobuf~=3.19.6
