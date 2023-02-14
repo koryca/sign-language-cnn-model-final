@@ -5,3 +5,4 @@ streamlit
 tensorflow
 matplotlib
 tensorflow_hub
+protobuf==3.9.2
