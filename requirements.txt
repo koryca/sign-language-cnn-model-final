@@ -4,5 +4,3 @@ scikit-learn
 streamlit==1.10.0
 plotly==5.10.0
 tensorflow
-cv2
-scipy
