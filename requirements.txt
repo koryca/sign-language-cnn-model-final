@@ -2,8 +2,9 @@ pip==23.0
 pandas
 numpy
 scikit-learn
-streamlit
+streamlit==1.13.0
+protobuf~=3.9.2
 tensorflow
 matplotlib
 tensorflow_hub
-protobuf~=3.9.2
+
