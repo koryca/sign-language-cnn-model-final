@@ -12,8 +12,8 @@ How to run the code:
 
 6. To run the final application, execute : streamlit run deploy_model.py
 
-* It is coded in the deployment that the model will be used once it's properly generated
-** To run the model on local: http://localhost:8501 by default
-if you'd like to change the port, use the following line
+(It is coded in the deployment that the model will be used once it's properly generated)
+
+(To run the model on local: http://localhost:8501 by default, if you'd like to change the port, use the following line)
 
 streamlit run my_app.py --server.port (port number)
